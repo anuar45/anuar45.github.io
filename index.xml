@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>anuar.dev</title>
+    <link>https://anuar.dev/</link>
+    <description>Recent content on anuar.dev</description>
+    <image>
+      <url>https://anuar.dev/papermod-cover.png</url>
+      <link>https://anuar.dev/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://anuar.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://anuar.dev/about/</link>
+      <pubDate>Mon, 05 Jul 2021 09:00:00 +0200</pubDate>
+      
+      <guid>https://anuar.dev/about/</guid>
+      <description>Summary I am a Systems Engineer with 10+ years of experience in planning, designing, implementing and supporting various IT Infrastructure Services.
+Currently interested in SE/SRE activities and Go programming.
+Skills Doing now:
+Development with: Go, Python, Postgres, Redis Runs on: Cloud, Kubernetes, Docker, Linux Automated by: Argo, Git, Gitlab Monitored thru: Grafana, Loki, ELK, Influx, Prometheus Work style: Agile SCRUM, DevOps and ITIL, Confluence Back in a days:
+Bitbucket and Teamcity, CHEF HP Servers, Blades, Storages, Switches, Routers, Tape Libraries Dual geo distributed datacenter setup and support VMware vSphere and SRM, Microsoft Hyper-V Cluster Linux/Windows infrastructure Microsoft Exchange, Active Directory, Lync/S4B, FIM/IDM, RDS, Citrix XenApp Zabbix, SCOM Python, ASP .</description>
+    </item>
+    
+  </channel>
+</rss>
